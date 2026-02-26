@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Operating Systems, HCI, AI and Machine Learning, Full-stack Website development**
 
-- 👨‍💻 All of my projects are available at my GitHub repositories
-
 - 💬 Ask me about **My Projects**
 
 - 📫 How to reach me **tanush.panu@gmail.com**
