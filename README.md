@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tanush Panuganti 👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Engineering student passionate about coding, building projects, and solving complex problems. I enjoy developing practical applications while strengthening my understanding of algorithms, data structures, and backend systems. Outside of tech, I enjoy going to the gym and constantly challenging myself to grow both mentally and physically.</h3>
 
 - 🔭 I’m currently working on **Python and Java**
 
