@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Python and Java**
 
-- 🌱 I’m currently learning **Operating Systems, HCI, AI and Machine Learning, Fullstack Website development**
+- 🌱 I’m currently learning **Operating Systems, HCI, AI and Machine Learning, Full-stack Website development**
 
-- 👨‍💻 All of my projects are available at [My Github Repositories](My Github Repositories)
+- 👨‍💻 All of my projects are available at my GitHub repositories
 
 - 💬 Ask me about **My Projects**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/tanush-panuganti-09126b2b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanush-panuganti-09126b2b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tanush.panuganti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanush panuganti" height="30" width="40" /></a>
 </p>
 
